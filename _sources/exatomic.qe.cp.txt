@@ -1,0 +1,14 @@
+exatomic.qe.cp package
+======================
+
+.. automodule:: exatomic.qe.cp
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   exatomic.qe.cp.dynamics

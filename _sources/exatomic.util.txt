@@ -1,0 +1,14 @@
+exatomic.util package
+=====================
+
+.. automodule:: exatomic.util
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   exatomic.util.builder

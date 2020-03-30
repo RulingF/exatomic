@@ -1,0 +1,17 @@
+exatomic.interfaces package
+===========================
+
+.. automodule:: exatomic.interfaces
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   exatomic.interfaces.cclib
+   exatomic.interfaces.cube
+   exatomic.interfaces.pdb
+   exatomic.interfaces.xyz

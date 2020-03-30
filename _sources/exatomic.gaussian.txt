@@ -1,0 +1,16 @@
+exatomic.gaussian package
+=========================
+
+.. automodule:: exatomic.gaussian
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   exatomic.gaussian.editor
+   exatomic.gaussian.inputs
+   exatomic.gaussian.output

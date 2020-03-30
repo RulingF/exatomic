@@ -1,0 +1,14 @@
+exatomic.plotter package
+========================
+
+.. automodule:: exatomic.plotter
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   exatomic.plotter.plot
